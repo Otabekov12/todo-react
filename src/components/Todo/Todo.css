@@ -1,0 +1,8 @@
+.todo__itme{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.todo__text{
+    margin-right: 7px;
+}
